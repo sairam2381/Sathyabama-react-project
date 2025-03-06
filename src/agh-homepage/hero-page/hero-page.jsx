@@ -7,13 +7,9 @@ export const HeroComponent = () => {
   };
   return (
     <HeroStyled>
-      <HeroHeader>Aptitude Guru Hem</HeroHeader>
-      <h1 className="header">Sreesairam</h1>
-      <h2 className="element">
-        <b id="color">At AGH, we shape futures and build skills</b> that turn
-        learning into success.
-      </h2>
-      <div className="element">
+      <h1>Hello</h1>
+      <h1>
+        sddsjndsdsn dsds ndsnjdskdskdsdsmkdsmkdskmkmdskmdskmdskmdskmdskmdskm
         Where Success Meets Opportunity! Are you ready to embark on a
         transformative journey towards success? At Aptitude Guru Hem, we are
         committed to providing you with the essential skills and knowledge to
@@ -21,9 +17,7 @@ export const HeroComponent = () => {
         and coding equips you to conquer every challenge, from company interview
         assessments to prestigious coding platforms like LeetCode,
         GeeksForGeeks, HackerRank , and more.
-      </div>
-      <button>Start new learning</button>
-      <button>Join a Live Demo</button>
+      </h1>
     </HeroStyled>
   );
 };
