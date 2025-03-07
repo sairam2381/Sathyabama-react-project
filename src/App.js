@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <HeroComponent />
-      <InfoComponent />
-      <OurServicesComponent />
+      {/* <InfoComponent />
+      <OurServicesComponent /> */}
       {/* <DummyComponent /> */}
     </div>
   );
