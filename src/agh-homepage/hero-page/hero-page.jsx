@@ -19,8 +19,10 @@ export const HeroComponent = () => {
           interview assessments to prestigious coding platforms like LeetCode,
           GeeksForGeeks, HackerRank , and more.
         </div>
-        <button>Start your learning</button>
-        <button>Join live demo</button>
+        <div className="button__container">
+          <button className="button__one">Start your learning</button>
+          <button className="button__two">Join live demo</button>
+        </div>
       </div>
     </HeroStyled>
   );
